@@ -1,16 +1,38 @@
-# recipe_app
+# Recipe App 🍳
 
-A new Flutter project.
+## Description
+A Flutter app that shows delicious
+recipes with ingredients and
+step by step instructions.
 
-## Getting Started
+## Features
+- ✅ Browse different recipes
+- ✅ View recipe ingredients
+- ✅ Step by step cooking guide
+- ✅ Beautiful UI design
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<img src="ScreenShots/home.jpeg" width="250">
+<img src="ScreenShots/detail.jpeg" width="250">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+- Flutter
+- Dart
+- REST API
+
+## How to Run
+1. Clone the repo
+   git clone https://github.com/ArfaAppDev/Recipe-App
+
+2. Install dependencies
+   flutter pub get
+
+3. Run the app
+   flutter run
+
+## Developer
+**Arfa Noor**
+- GitHub: [@ArfaAppDev](https://github.com/ArfaAppDev)
+- LinkedIn: [Arfa Noor](https://www.linkedin.com/in/arfa-noor-254a63365/)
